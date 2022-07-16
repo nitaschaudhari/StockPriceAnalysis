@@ -1,1 +1,1 @@
-# StockPriceAnalysis
+# Stock Price Analysis
